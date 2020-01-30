@@ -17,3 +17,10 @@ Fluid Layouts
 -Added tablets and mobile to media query
 -changed breakpoints for tablets from 700 to 768px
 -changed breakpoints for mobile from 400 to 480px
+
+Tablet Styles
+- Added header nav ul li style to style.css
+- Added header nav ul style to style.css
+- Added header nav to style.css
+- Added h1.logo to style.css
+- Added footer ul style to style.css
