@@ -29,3 +29,11 @@ Mobile Styles
 - Added home menu css to mobile media query, for menu to be seen better
 - Added banner css to mobile media query, for more readable banner
 
+Mobile Dop Menu
+- Added menu.js file and added jquery code 
+- Added burger nav to style.css file
+- Added script src to index.html for....http://code.jquery.com/jquery-1.11.3.minjs
+- Drop menu shows when page goes below 480px. 
+
+
+
