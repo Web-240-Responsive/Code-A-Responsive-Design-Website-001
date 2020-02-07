@@ -24,3 +24,8 @@ Tablet Styles
 - Added header nav to style.css
 - Added h1.logo to style.css
 - Added footer ul style to style.css
+
+Mobile Styles
+- Added home menu css to mobile media query, for menu to be seen better
+- Added banner css to mobile media query, for more readable banner
+
