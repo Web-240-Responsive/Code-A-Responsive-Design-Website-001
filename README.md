@@ -35,5 +35,14 @@ Mobile Dop Menu
 - Added script src to index.html for....http://code.jquery.com/jquery-1.11.3.minjs
 - Drop menu shows when page goes below 480px. 
 
+Responsive images and polyfills
+- Added scripts for picture fill from http://scottjehl.github.io/picturefill/#gettingstarted 
+code https://cdn.rawgit.com/scottjehl/picturefill/3.0.2/dist/picturefill.js to index.html file
+
+- Removed banner css
+- Changed banner width to 1000 for medium and 500 for small.
+
+
+
 
 
