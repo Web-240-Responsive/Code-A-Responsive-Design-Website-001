@@ -184,7 +184,7 @@ footer a{
 /* MEDIA QUERIES */
 
 /*tablets*/
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1000px){
 
 	header nav{
 		float: none;
@@ -220,7 +220,7 @@ footer a{
 	}
 
 /*mobiles*/
-@media screen and (max-width: 480px){
+@media screen and (max-width: 500px){
 
 	.burger-nav{
 		display: block;
@@ -278,10 +278,6 @@ footer a{
 		margin: 30px 2% !important;
 	}
 	
-	#main-banner img{
-		position: relative;
-		width: 180%;
-		left: -40%;
-	}
+	
 	
 }
